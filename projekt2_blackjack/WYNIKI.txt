@@ -1,0 +1,7 @@
+Numer rozgrywki: 1
+Gracz1      5[6] A[6]                                           Punkty:  16
+Gracz2      Q[3] K[6]                                           Punkty:   7
+Bot1        6[3] 5[3] 8[5]                                      Punkty:  19
+Bot2        8[6] D[4]                                           Punkty:  18
+Bot3        3[5] J[6] 9[5] 5[5]                                 Punkty:  19
+
